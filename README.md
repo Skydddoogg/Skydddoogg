@@ -1,4 +1,4 @@
 ### Hi! I'm Sky 👋
 
-- 🔭 I’m currently working on speech technology.
+- 🔭 I’m currently working on machine learning.
 - ⚡ Fun fact: I eat frogs.
